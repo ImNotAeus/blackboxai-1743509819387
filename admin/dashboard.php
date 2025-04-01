@@ -47,10 +47,10 @@ $alerts = $conn->query("
     }
     </script>
 </head>
-<body class="bg-gray-100">
+<body class="bg-gray-100 dark:bg-gray-900">
     <div class="flex h-screen">
         <!-- Sidebar -->
-        <div class="w-64 bg-gray-800 text-white p-4">
+        <div class="w-64 bg-gray-800 dark:bg-gray-900 text-white p-4">
             <h1 class="text-xl font-bold mb-6">Admin Panel</h1>
             <nav>
                 <ul class="space-y-2">
